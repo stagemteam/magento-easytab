@@ -22,7 +22,7 @@
       ["app/design/frontend/base/default/template/tm/easytabs/", "app/design/frontend/base/default/template/tm/easytabs/"],
       ["skin/frontend/base/default/js/tm/easytabs.js", "skin/frontend/base/default/js/tm/easytabs.js"],
       ["skin/frontend/base/default/css/tm/easytabs.css", "skin/frontend/base/default/css/tm/easytabs.css"],
-      ["js/tm/adminhtml/core/windows.js", "js/tm/adminhtml/core/windows.js"]
+      ["js/tm/adminhtml/core/window.js", "js/tm/adminhtml/core/window.js"]
     ]
   }
 }
