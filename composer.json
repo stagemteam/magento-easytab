@@ -1,0 +1,28 @@
+{
+  "name": "stagem/magento-easytab",
+  "type": "magento-module",
+  "license": "MIT Licence",
+  "description": "EasyTab Magento 1 module",
+  "authors": [
+    {
+      "name": "Vlad Kozak",
+      "email": "vk@stagem.com.ua"
+    }
+  ],
+  "extra": {
+    "map": [
+      ["app/etc/modules/TM_EasyTabs.xml", "app/etc/modules/TM_EasyTabs.xml"],
+      ["app/etc/modules/TM_Core.xml", "app/etc/modules/TM_Core.xml"],
+      ["app/code/community/TM/Core", "app/code/community/TM/Core"],
+      ["app/code/community/TM/EasyTab", "app/code/community/TM/EasyTab"],
+      ["app/locale/en_US/TM_Core.csv", "app/locale/en_US/TM_Core.csv"],
+      ["app/design/adminhtml/default/default/layout/tm/easytabs.xml", "app/design/adminhtml/default/default/layout/tm/easytabs.xml"],
+      ["app/design/frontend/base/default/layout/tm/easytabs.xml", "app/design/frontend/base/default/layout/tm/easytabs.xml"],
+      ["app/design/adminhtml/default/default/template/tmcore", "app/design/adminhtml/default/default/template/tmcore"],
+      ["app/design/frontend/base/default/template/tm", "app/design/frontend/base/default/template/tm"],
+      ["skin/frontend/base/default/js/tm/easytabs.js", "skin/frontend/base/default/js/tm/easytabs.js"],
+      ["skin/frontend/base/default/css/tm/easytabs.css", "skin/frontend/base/default/css/tm/easytabs.css"],
+      ["js\tm", "js\tm"]
+    ]
+  }
+}
