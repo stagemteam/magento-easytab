@@ -14,7 +14,7 @@
       ["app/etc/modules/TM_EasyTabs.xml", "app/etc/modules/TM_EasyTabs.xml"],
       ["app/etc/modules/TM_Core.xml", "app/etc/modules/TM_Core.xml"],
       ["app/code/community/TM/Core/", "app/code/community/TM/Core/"],
-      ["app/code/community/TM/EasyTab/", "app/code/community/TM/EasyTab/"],
+      ["app/code/community/TM/EasyTabs/", "app/code/community/TM/EasyTabs/"],
       ["app/locale/en_US/TM_Core.csv", "app/locale/en_US/TM_Core.csv"],
       ["app/design/adminhtml/default/default/layout/tm/easytabs.xml", "app/design/adminhtml/default/default/layout/tm/easytabs.xml"],
       ["app/design/frontend/base/default/layout/tm/easytabs.xml", "app/design/frontend/base/default/layout/tm/easytabs.xml"],
